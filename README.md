@@ -1,5 +1,4 @@
 # Naman2504-Document-Clustering-for-Topic-Modeling
-Applying clustering algorithms like Latent Dirichlet Allocation (LDA) and K-means to group similar documents together for topic modeling and understanding large text corpora.
 📂 Document Clustering and Topic Modeling with LDA & KMeans
 This project applies Latent Dirichlet Allocation (LDA) for topic modeling and KMeans for document clustering on the 20 Newsgroups dataset. It performs text preprocessing, TF-IDF vectorization, topic inference using both Scikit-learn and Gensim, visualizes topics using pyLDAvis, and clusters documents using KMeans and t-SNE.
 
